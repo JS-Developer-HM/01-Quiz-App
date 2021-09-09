@@ -1,3 +1,9 @@
 {
-"x": 5
+  "apiKey": "AIzaSyCNMCSt8MzhBLUztKYD0foentDYksxfkdk",
+  "authDomain": "hm-firebase.firebaseapp.com",
+  "databaseURL": "https://hm-firebase.firebaseio.com",
+  "projectId": "hm-firebase",
+  "storageBucket": "hm-firebase.appspot.com",
+  "messagingSenderId": "532107147658",
+  "appId": "1:532107147658:web:da77861842d2a9b8d1f073"
 }
